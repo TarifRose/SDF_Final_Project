@@ -1,0 +1,7 @@
+Tarif Rose 
+
+Program description
+
+This is a program that makes a profile page for the user and allows them to edit the individual feilds. It 
+checks to make sure the user is inputting the correct type of data through the use of a while loop and a 
+switch statement. It displays the profile page both before and after the changes. Also I've added the dob field for date of birth. 
